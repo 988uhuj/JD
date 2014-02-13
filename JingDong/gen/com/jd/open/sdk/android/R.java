@@ -11,8 +11,8 @@ public final class R {
 		public static final int jingdong_logo = 0x7f020013;
 	}
 	public static final class string {
-		public static final int alert_error = 0x7f060002;
-		public static final int jd_oauth_login = 0x7f060000;
-		public static final int loading = 0x7f060001;
+		public static final int alert_error = 0x7f040002;
+		public static final int jd_oauth_login = 0x7f040000;
+		public static final int loading = 0x7f040001;
 	}
 }
